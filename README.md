@@ -4,4 +4,4 @@
 - 对前端开发和计算机网络感兴趣
 - 技术栈 Vue、Astro 和 Java
 - Contact:
-  - Telegram: t.me/huidevcom
+  - Telegram: [t.me/huidevcom](https://t.me/huidevcom)
