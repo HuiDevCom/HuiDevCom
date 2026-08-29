@@ -3,5 +3,6 @@
 - 学生开发者
 - 对前端开发和计算机网络感兴趣
 - 技术栈 Vue、Astro 和 Java
+- 爱发电 [风绘可爱捏](https://ifdian.net/a/HuiDevCom)
 - Contact:
   - Telegram: [t.me/huidevcom](https://t.me/huidevcom)
