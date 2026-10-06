@@ -44,13 +44,14 @@ I enjoy frontend development and want to explore full-stack development, network
 
 ---
 
-<p>
+<p align="center">
   <a href="https://github.com/HuiDevCom?tab=overview">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HuiDevCom&amp;timezone=Asia%2FShanghai&amp;card_width=390&amp;card_height=195&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=A5B4FC&amp;fire=93C5FD&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=A5B4FC&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;border_radius=12&amp;disable_animations=true" />
       <img width="390" alt="HuiDevCom's total contributions and contribution streaks" src="https://streak-stats.demolab.com?user=HuiDevCom&amp;timezone=Asia%2FShanghai&amp;card_width=390&amp;card_height=195&amp;background=FFFFFF&amp;border=E2E8F0&amp;stroke=E2E8F0&amp;ring=7B83B4&amp;fire=6479B8&amp;currStreakNum=475569&amp;sideNums=475569&amp;currStreakLabel=5B67A5&amp;sideLabels=475569&amp;dates=64748B&amp;border_radius=12&amp;disable_animations=true" />
     </picture>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/HuiDevCom">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=HuiDevCom&amp;show_icons=true&amp;hide_rank=true&amp;card_width=390&amp;custom_title=GitHub%20Activity&amp;bg_color=0D1117&amp;title_color=A5B4FC&amp;icon_color=93C5FD&amp;text_color=C9D1D9&amp;border_color=30363D&amp;border_radius=12&amp;disable_animations=true" />
@@ -68,8 +69,8 @@ I enjoy frontend development and want to explore full-stack development, network
 ---
 
 <p align="center">
-  <a href="mailto:fenghui@huidev.com"><img src="https://img.shields.io/badge/Email-fenghui%40huidev.com-4F7384?style=flat&amp;labelColor=4F7384" alt="Email: fenghui@huidev.com" /></a>
-  <a href="https://ifdian.net/a/HuiDevCom"><img src="https://img.shields.io/badge/AfDian-HuiDevCom-4F7384?style=flat&amp;labelColor=4F7384" alt="AfDian: HuiDevCom" /></a>
+  <a href="mailto:fenghui@huidev.com"><img src="https://img.shields.io/badge/Email-fenghui%40huidev.com-000000?style=flat&amp;labelColor=000000" alt="Email: fenghui@huidev.com" /></a>
+  <a href="https://ifdian.net/a/HuiDevCom"><img src="https://img.shields.io/badge/AfDian-HuiDevCom-000000?style=flat&amp;labelColor=000000" alt="AfDian: HuiDevCom" /></a>
 </p>
 
 ---
