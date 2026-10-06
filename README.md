@@ -65,8 +65,7 @@ I enjoy frontend development and want to explore full-stack development, network
 
 <p align="center">
   <a href="mailto:fenghui@huidev.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact/email-dark.svg" /><img src="./assets/contact/email-light.svg" width="240" height="52" alt="Email: fenghui@huidev.com" /></picture></a>
-  &nbsp;&nbsp;
-  <a href="https://ifdian.net/a/HuiDevCom"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact/afdian-dark.svg" /><img src="./assets/contact/afdian-light.svg" width="168" height="52" alt="Support HuiDevCom on AfDian" /></picture></a>
+  <a href="https://ifdian.net/a/HuiDevCom"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact/afdian-dark.svg" /><img src="./assets/contact/afdian-light.svg" width="240" height="52" alt="Support HuiDevCom on AfDian" /></picture></a>
 </p>
 
 ---

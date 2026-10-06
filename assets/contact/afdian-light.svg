@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="168" height="52" viewBox="0 0 168 52" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-labelledby="title">
   <title id="title">Support HuiDevCom on AfDian</title>
-  <rect x="0.5" y="0.5" width="167" height="51" rx="13.5" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="0.5" y="0.5" width="239" height="51" rx="13.5" fill="#FFFFFF" stroke="#E2E8F0"/>
   <path d="M19.5 5.5a4.95 4.95 0 0 0-7 0L12 6l-.5-.5a4.95 4.95 0 0 0-7 7L12 20l7.5-7.5a4.95 4.95 0 0 0 0-7Z" transform="translate(17 14)" fill="none" stroke="#6479B8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
   <g font-family="Segoe UI, Arial, sans-serif">
     <text x="54" y="19" fill="#5B67A5" font-size="9" font-weight="600" letter-spacing="1.2">SUPPORT</text>
