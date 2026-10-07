@@ -17,7 +17,7 @@
 
 <img align="right" src="./assets/banner.gif" width="160" alt="Animated chibi character" />
 
-I'm a **Computer Applications and Networking** student in China. My interests guide my learning, and exploring new technologies keeps me motivated. In **summer 2024**, I became interested in hosting a **Minecraft server** and needed a website for it, which led me toward frontend development in **early 2025**. I maintain [HuiDev Notes](https://huidev.com/) and am currently learning **Python** and **MySQL**.
+I'm a **Computer Applications and Networking** student in China. My interests guide my learning, and exploring new technologies keeps me motivated. In **summer 2024**, I became interested in hosting a **Minecraft server** and needed a website for it, which prompted me to start learning about frontend development in **early 2025**. I maintain [HuiDev Notes](https://huidev.com/) and am currently learning **Python** and **MySQL**.
 
 I enjoy frontend development and want to explore full-stack development, networking, and AI development further. Outside of code, I enjoy anime, visual novels, and anime-style games. I like exchanging ideas and welcome conversations about technology and shared interests.
 
