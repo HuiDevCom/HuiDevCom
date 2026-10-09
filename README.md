@@ -32,8 +32,8 @@ I enjoy frontend development and want to explore full-stack development, network
 <p>
   <a href="https://skillicons.dev/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Castro%2Cpy%2Cmysql%2Cgit%2Cvscode&amp;theme=dark&amp;perline=6" />
-      <img src="https://skillicons.dev/icons?i=nodejs%2Castro%2Cpy%2Cmysql%2Cgit%2Cvscode&amp;theme=light&amp;perline=6" alt="Node.js, Astro, Python, MySQL, Git, and Visual Studio Code" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cts%2Castro%2Cpy%2Cmysql%2Cgit%2Cvscode&amp;theme=dark&amp;perline=7" />
+      <img src="https://skillicons.dev/icons?i=nodejs%2Cts%2Castro%2Cpy%2Cmysql%2Cgit%2Cvscode&amp;theme=light&amp;perline=7" alt="Node.js, TypeScript, Astro, Python, MySQL, Git, and Visual Studio Code" />
     </picture>
   </a>
 </p>
